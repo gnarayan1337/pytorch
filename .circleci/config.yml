@@ -10,7 +10,7 @@ version: 2.1
 parameters:
   run_binary_tests:
     type: boolean
-    default: false
+    default: true
   run_build:
     type: boolean
     default: true
